@@ -11,7 +11,7 @@ public class MesajApi {
 	
 	@GetMapping
 	public String mesajVer() {
-		return "Docker Image 2  içinden gelen mesaj";
+		return "Docker Image 3  içinden gelen yeni mesaj";
 		
 	}
 }
