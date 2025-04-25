@@ -11,7 +11,7 @@ public class MesajApi {
 	
 	@GetMapping
 	public String mesajVer() {
-		return "Docker Image 4  içinden gelen yeni mesaj 44444";
+		return "Merhaba Türk Telekom";
 		
 	}
 }
