@@ -13,7 +13,7 @@ spec:
     spec:
       containers:
         - name: jenkins-instance
-          image: ibrahimgokyar/opendartrepo:spring-boot-telekomV04
+          image: handetarhann/deneme:telekomornekv20
           imagePullPolicy: Always
           ports:
             - containerPort: 8085
